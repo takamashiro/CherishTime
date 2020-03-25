@@ -1,6 +1,5 @@
----
-title: Privacy Usage Terms
----
+#Privacy Usage Terms
+
 By using this app CherishTime means you agreed with the terms below
 
 ## What do we collect?
